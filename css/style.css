@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(168, 162, 162);
+}
+
+nav > ul {
+    list-style: none;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+nav li {
+    display: inline-block;
+    margin: 40px;
+
+}
